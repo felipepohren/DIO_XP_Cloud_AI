@@ -22,6 +22,8 @@
 5. Solicitar a analise dos dados;
 6. Gerar conclusões.
 
+A técnica utilizada é a de cadeia de pensamento onde são fornecidas instruções detalhadas para que o modelo execute passo a passo e consiga interpretar de forma clara.
+
 ---
 ## Prompt utilizado no projeto
 
