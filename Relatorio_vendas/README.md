@@ -58,5 +58,7 @@
 ## Conclusões
 
 * O modelo entendeu bem os dados e executou conforme foi solicitado;
-* Além de responder as questões o modelo gerou insights e sugeriu ações a serem tomadas.
+* Além de responder as questões o modelo gerou insights e sugeriu ações a serem tomadas para obter melhorias na produção e logística;
+* Perguntas adicionais sobre a estrategia de descontos da Shopee foram respondidas com instruções para tomada de ações devido a falta de dadso de custo de produção;
+* O modelo manteve o contexto em perguntas adicionais.
 
