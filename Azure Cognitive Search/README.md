@@ -24,41 +24,41 @@ Link do tutorial do laboratório:
 
 ### Search explorer:
 
-Filtrando por sentimento positivo foram encontrados 5 registros.
-Filtrando por sentimento negativo foi encontrado 1 registro conforme previu o tutorial:
-{
-  "@odata.context": "https://aisearch3444.search.windows.net/indexes('coffee-index')/$metadata#docs(*)",
-  "@odata.count": 1,
-  "value": [
+* Filtrando por sentimento positivo foram encontrados 5 registros.
+* Filtrando por sentimento negativo foi encontrado 1 registro conforme previu o tutorial:
     {
-      "@search.score": 1.89712,
-      "content": "Review: Today I was truly disappointed with how long I had to wait for the pastries I ordered ahead of time. When I got my box, some of the pastries seemed stale. Terrible experience!  \nDate: October 23, 2018\nLocation: Chicago, Illinois \n\n",
-      "metadata_storage_path": "aHR0cHM6Ly9tZXVhcm1hemVuYW1lbnRvNTg2NzQ4LmJsb2IuY29yZS53aW5kb3dzLm5ldC9maWxlcy9yZXZpZXctOC5kb2N4",
-      "locations": [
-        "Chicago",
-        "Illinois"
-      ],
-      "keyphrases": [
-        "Terrible experience",
-        "Review",
-        "pastries",
-        "time",
-        "box",
-        "Date",
-        "October",
-        "Location",
-        "Chicago",
-        "Illinois"
-      ],
-      "sentiment": "[\"negative\"]",
-      "merged_content": "Review: Today I was truly disappointed with how long I had to wait for the pastries I ordered ahead of time. When I got my box, some of the pastries seemed stale. Terrible experience!  \nDate: October 23, 2018\nLocation: Chicago, Illinois \n\n",
-      "text": [],
-      "layoutText": [],
-      "imageTags": [],
-      "imageCaption": []
+    "@odata.context": "https://aisearch3444.search.windows.net/indexes('coffee-index')/$metadata#docs(*)",
+    "@odata.count": 1,
+    "value": [
+        {
+        "@search.score": 1.89712,
+        "content": "Review: Today I was truly disappointed with how long I had to wait for the pastries I ordered ahead of time. When I got my box, some of the pastries seemed stale. Terrible experience!  \nDate: October 23, 2018\nLocation: Chicago, Illinois \n\n",
+        "metadata_storage_path": "aHR0cHM6Ly9tZXVhcm1hemVuYW1lbnRvNTg2NzQ4LmJsb2IuY29yZS53aW5kb3dzLm5ldC9maWxlcy9yZXZpZXctOC5kb2N4",
+        "locations": [
+            "Chicago",
+            "Illinois"
+        ],
+        "keyphrases": [
+            "Terrible experience",
+            "Review",
+            "pastries",
+            "time",
+            "box",
+            "Date",
+            "October",
+            "Location",
+            "Chicago",
+            "Illinois"
+        ],
+        "sentiment": "[\"negative\"]",
+        "merged_content": "Review: Today I was truly disappointed with how long I had to wait for the pastries I ordered ahead of time. When I got my box, some of the pastries seemed stale. Terrible experience!  \nDate: October 23, 2018\nLocation: Chicago, Illinois \n\n",
+        "text": [],
+        "layoutText": [],
+        "imageTags": [],
+        "imageCaption": []
+        }
+    ]
     }
-  ]
-}
 
 
 ### Knoledge store:
